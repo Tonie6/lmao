@@ -1,0 +1,13 @@
+{
+  "bot": {
+    "token": "TOKEN_HERE" 
+  },
+  "status": {
+    "vanity": ".gg/kronos",
+    "roletogiveid": "RoleID",
+    "channelid": "ChannelID"
+  },
+  "options": {
+  "consolelogs": true
+  }
+}

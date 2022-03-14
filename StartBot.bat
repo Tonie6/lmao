@@ -1,0 +1,6 @@
+@echo off
+echo Kronos Vainty (Bot is verifying)...
+:main
+node index.js
+echo Kronos Vainty (Bot is Restarting)...
+goto main

@@ -1,0 +1,17 @@
+{
+  "name": "ClapzPrioBot",
+  "version": "1.0.0",
+  "description": "A Discorde Bot That Watches Peoples Status! :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SC-Development",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^12.2.0",
+    "hyperz-nodelogger": "^3.7.1"
+  }
+}
